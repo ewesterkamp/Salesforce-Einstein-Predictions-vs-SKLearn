@@ -1,0 +1,101 @@
+Candidate Name,Predicted Likelihood to Accept Offer,Accepted Offer,Application Status,Degree,Degree Field,Mailing City,Mailing State,Mailing Street,Postal Code
+Andy Ruiz,25,Yes,Accepted Offer,Bachelors,Computer Science,San Jose,CA,12380 Grant St.,94206
+Byron Lowe,25,No,Rejected Offer,Ph.D.,Computer Science,Fairfield,CA,12351 Delano St.,94276
+Adam Vaughn,25,,Applied,Ph.D.,Computer Science,Folsom,CA,1250 Rye St.,94322
+Shaun Weber,25,No,Rejected Offer,Masters,Computer Science,San Francisco,CA,139 Main St.,94265
+Tommie Cortez,25,Yes,Accepted Offer,Masters,Computer Science,Turlock,CA,3489 Folsom St.,94439
+Essie Wong,25,Yes,Accepted Offer,Bachelors,Computer Science,San Diego,CA,7376 Howard St.,94120
+Bobby Fleming,25,No,Rejected Offer,Bachelors,Computer Science,Turlock,CA,3488 Folsom St.,94167
+Julie Rhodes,25,Yes,Accepted Offer,Bachelors,Computer Science,San Diego,CA,7375 Howard St.,94387
+Clara Gilbert,25,,Offer Made,Masters,Computer Science,Folsom,CA,1246 Rye St.,94286
+Randall Morris,25,,Applied,Masters,Computer Science,Fairfield,CA,12346 Delano St.,94125
+Brandon Daniels,25,,Applied,Bachelors,Computer Science,Folsom,CA,1245 Rye St.,94282
+Jeremy Wood,25,,Offer Made,Masters,Computer Science,San Francisco,CA,134 Main St.,94257
+Juan Murphy,25,Yes,Accepted Offer,Masters,Computer Science,Fairfield,CA,12345 Delano St.,94369
+Teresa Castro,25,,Applied,Masters,Computer Science,Folsom,CA,1243 Rye St.,94298
+Evan Coleman,25,Yes,Accepted Offer,Masters,Computer Science,Turlock,CA,3483 Folsom St.,94140
+Carroll Bradley,25,Yes,Accepted Offer,Masters,Computer Science,San Diego,CA,7370 Howard St.,94227
+Agnes Miller,25,,Offer Made,Bachelors,Computer Science,San Jose,CA,12372 Grant St.,94416
+Suzanne Moran,25,No,Rejected Offer,Masters,Computer Science,Fairfield,CA,12340 Delano St.,94216
+Toni Caldwell,25,,Applied,Masters,Computer Science,Folsom,CA,1239 Rye St.,94393
+Annette Griffith,25,,Offer Made,Bachelors,Computer Science,Fairfield,CA,12339 Delano St.,94205
+Daryl Rodgers,25,,Offer Made,Ph.D.,Computer Science,San Diego,CA,7365 Howard St.,94191
+Blanche Jordan,25,Yes,Accepted Offer,Bachelors,Computer Science,Folsom,CA,1237 Rye St.,94143
+Douglas Valdez,25,,Offer Made,Masters,Computer Science,San Jose,CA,12366 Grant St.,94188
+Justin Gill,25,,Applied,Ph.D.,Computer Science,San Francisco,CA,124 Main St.,94129
+Sonya Mcgee,25,Yes,Accepted Offer,Ph.D.,Computer Science,San Diego,CA,7362 Howard St.,94408
+Sophia Campbell,25,,Offer Made,Ph.D.,Computer Science,San Jose,CA,12364 Grant St.,94123
+Kristine White,25,No,Rejected Offer,Ph.D.,Computer Science,Folsom,CA,1234 Rye St.,94215
+Ethel Marshall,25,Yes,Accepted Offer,Bachelors,Computer Science,San Francisco,CA,123 Main St.,94133
+Darrin Malone,25,,Offer Made,Ph.D.,Electrical Engineering,San Jose,CA,12379 Grant St.,94229
+Bennie Lloyd,25,Yes,Accepted Offer,Bachelors,Electrical Engineering,Fairfield,CA,12349 Delano St.,94370
+Moses Guzman,25,,Offer Made,Masters,Electrical Engineering,Folsom,CA,1248 Rye St.,94434
+Shane Wilkins,25,,Offer Made,Bachelors,Electrical Engineering,San Francisco,CA,137 Main St.,94113
+Sheri Barker,25,Yes,Accepted Offer,Ph.D.,Electrical Engineering,San Jose,CA,12377 Grant St.,94174
+Billy Peterson,25,,Applied,Masters,Electrical Engineering,Folsom,CA,1247 Rye St.,94266
+Alma Santiago,25,,Applied,Ph.D.,Electrical Engineering,Fairfield,CA,12347 Delano St.,94253
+Hubert Maxwell,25,Yes,Accepted Offer,Ph.D.,Electrical Engineering,Folsom,CA,1244 Rye St.,94230
+Joanne Silva,25,No,Rejected Offer,Bachelors,Electrical Engineering,Turlock,CA,3484 Folsom St.,94266
+Gina Hines,25,No,Rejected Offer,Ph.D.,Electrical Engineering,San Francisco,CA,131 Main St.,94300
+Lucy Mitchell,25,,Applied,Ph.D.,Electrical Engineering,Folsom,CA,1240 Rye St.,94447
+Kent Rogers,25,,Offer Made,Ph.D.,Electrical Engineering,San Diego,CA,7367 Howard St.,94392
+Leon Mills,25,,Applied,Ph.D.,Electrical Engineering,Folsom,CA,1238 Rye St.,94178
+Lillie Carter,25,Yes,Accepted Offer,Masters,Electrical Engineering,Turlock,CA,3478 Folsom St.,94214
+Todd Clark,25,,Applied,Bachelors,Electrical Engineering,San Diego,CA,7364 Howard St.,94371
+Raul Horton,25,,Applied,Masters,Electrical Engineering,Folsom,CA,1236 Rye St.,94286
+Melvin Adkins,25,Yes,Accepted Offer,Masters,Electrical Engineering,San Diego,CA,7363 Howard St.,94434
+Edward Larson,25,,Offer Made,Masters,Electrical Engineering,Fairfield,CA,12336 Delano St.,94310
+Lorenzo Davidson,90,Yes,Accepted Offer,Masters,Electrical Engineering,Turlock,CA,3482 Folsom St.,94140
+Carmen Kelley,90,,Applied,Ph.D.,Electrical Engineering,San Francisco,CA,130 Main St.,94327
+Claire Chavez,25,Yes,Accepted Offer,Bachelors,Mathematics,Fairfield,CA,12350 Delano St.,94261
+Cora Mann,25,Yes,Accepted Offer,Bachelors,Mathematics,Folsom,CA,1249 Rye St.,94420
+Virginia Greene,25,,Applied,Bachelors,Mathematics,San Jose,CA,12378 Grant St.,94353
+Marshall Christensen,25,,Offer Made,Ph.D.,Mathematics,San Francisco,CA,136 Main St.,94131
+Timmy Wheeler,25,,Offer Made,Masters,Mathematics,Turlock,CA,3487 Folsom St.,94156
+Bernice Lawson,25,,Applied,Masters,Mathematics,San Jose,CA,12376 Grant St.,94440
+Pamela Gray,25,Yes,Accepted Offer,Masters,Mathematics,San Francisco,CA,135 Main St.,94220
+Kathleen Williams,25,,Applied,Bachelors,Mathematics,Turlock,CA,3486 Folsom St.,94357
+Anna Watts,25,,Applied,Masters,Mathematics,San Jose,CA,12375 Grant St.,94419
+Percy Thomas,25,,Applied,Masters,Mathematics,Turlock,CA,3485 Folsom St.,94429
+Gregg Phillips,25,,Applied,Masters,Mathematics,San Francisco,CA,133 Main St.,94272
+Josephine Goodman,25,No,Rejected Offer,Ph.D.,Mathematics,San Diego,CA,7371 Howard St.,94121
+Juanita Harrington,25,,Applied,Bachelors,Mathematics,San Jose,CA,12373 Grant St.,94303
+Tonya Banks,25,No,Rejected Offer,Masters,Mathematics,Fairfield,CA,12344 Delano St.,94452
+Vicki Porter,25,No,Rejected Offer,Ph.D.,Mathematics,San Francisco,CA,129 Main St.,94337
+Gerardo Hunt,25,,Offer Made,Ph.D.,Mathematics,San Francisco,CA,128 Main St.,94412
+Brian Watson,25,Yes,Accepted Offer,Bachelors,Mathematics,San Diego,CA,7366 Howard St.,94400
+Milton Andrews,25,,Offer Made,Bachelors,Mathematics,San Francisco,CA,127 Main St.,94322
+Nicholas Austin,25,,Applied,Ph.D.,Mathematics,San Jose,CA,12367 Grant St.,94286
+Karla Carr,25,,Offer Made,Bachelors,Mathematics,Fairfield,CA,12338 Delano St.,94258
+Grace Cobb,25,,Offer Made,Bachelors,Mathematics,Fairfield,CA,12337 Delano St.,94209
+Myrtle Waters,25,No,Rejected Offer,Bachelors,Mathematics,San Francisco,CA,125 Main St.,94412
+Arthur Ray,25,,Applied,Bachelors,Mathematics,Turlock,CA,3476 Folsom St.,94201
+Gene Chandler,25,No,Rejected Offer,Ph.D.,Mathematics,San Jose,CA,12365 Grant St.,94151
+Hilda Schmidt,25,No,Rejected Offer,Bachelors,Mathematics,Folsom,CA,1235 Rye St.,94350
+Lewis Stanley,25,No,Rejected Offer,Ph.D.,Mathematics,Fairfield,CA,12335 Delano St.,94261
+Malcolm Pratt,90,Yes,Accepted Offer,Masters,Mathematics,San Diego,CA,7369 Howard St.,94185
+Pauline Sullivan,90,,Offer Made,Ph.D.,Mathematics,San Jose,CA,12371 Grant St.,94154
+Jacob Hampton,90,No,Rejected Offer,Masters,Mathematics,Turlock,CA,3481 Folsom St.,94453
+Rachel Cole,25,No,Rejected Offer,Ph.D.,Mechanical Engineering,Turlock,CA,3490 Folsom St.,94373
+Jennie Osborne,25,No,Rejected Offer,Masters,Mechanical Engineering,San Diego,CA,7377 Howard St.,94261
+Nathan Daniel,25,Yes,Accepted Offer,Masters,Mechanical Engineering,San Francisco,CA,138 Main St.,94196
+Bruce Watkins,25,,Applied,Ph.D.,Mechanical Engineering,Fairfield,CA,12348 Delano St.,94221
+Salvador Hansen,25,,Applied,Ph.D.,Mechanical Engineering,San Diego,CA,7374 Howard St.,94158
+Darnell Cummings,25,,Offer Made,Bachelors,Mechanical Engineering,San Diego,CA,7373 Howard St.,94265
+Regina Gutierrez,25,No,Rejected Offer,Bachelors,Mechanical Engineering,San Diego,CA,7372 Howard St.,94196
+Jimmy Vasquez,25,,Applied,Masters,Mechanical Engineering,San Jose,CA,12374 Grant St.,94420
+Robert Hart,25,No,Rejected Offer,Masters,Mechanical Engineering,San Francisco,CA,132 Main St.,94147
+Rene Day,25,Yes,Accepted Offer,Ph.D.,Mechanical Engineering,Fairfield,CA,12343 Delano St.,94135
+Vincent Garza,25,No,Rejected Offer,Ph.D.,Mechanical Engineering,Folsom,CA,1242 Rye St.,94452
+Marjorie Foster,25,,Offer Made,Bachelors,Mechanical Engineering,Fairfield,CA,12341 Delano St.,94414
+Lucia Becker,25,,Offer Made,Masters,Mechanical Engineering,Turlock,CA,3480 Folsom St.,94383
+Minnie Holland,25,No,Rejected Offer,Ph.D.,Mechanical Engineering,San Jose,CA,12369 Grant St.,94358
+Jodi Higgins,25,,Applied,Ph.D.,Mechanical Engineering,Turlock,CA,3479 Folsom St.,94135
+Ellis Parks,25,,Offer Made,Masters,Mechanical Engineering,San Jose,CA,12368 Grant St.,94446
+Ramon Neal,25,No,Rejected Offer,Masters,Mechanical Engineering,San Francisco,CA,126 Main St.,94129
+Herbert Copeland,25,Yes,Accepted Offer,Masters,Mechanical Engineering,Turlock,CA,3477 Folsom St.,94286
+Olive Newton,25,Yes,Accepted Offer,Ph.D.,Mechanical Engineering,Turlock,CA,3475 Folsom St.,94226
+Roland Lee,90,,Offer Made,Masters,Mechanical Engineering,Fairfield,CA,12342 Delano St.,94424
+Kate Garrett,90,,Offer Made,Masters,Mechanical Engineering,Folsom,CA,1241 Rye St.,94345
+Duane Baldwin,90,,Offer Made,Bachelors,Mechanical Engineering,San Diego,CA,7368 Howard St.,94342
+Eva Mccormick,90,Yes,Accepted Offer,Ph.D.,Mechanical Engineering,San Jose,CA,12370 Grant St.,94378
